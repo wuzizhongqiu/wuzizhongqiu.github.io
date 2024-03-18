@@ -1175,7 +1175,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #5590c9;
+  background: #ffc657;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2547,7 +2547,7 @@ ul.breadcrumb li + li:last-child {
   padding: 0;
 }
 body {
-  background: url("https://c.wallhere.com/photos/aa/44/landscape_nature_winter_snow_ice_frost_forest_field-2228466.jpg!d");
+  background: url("https://formyblog-1316637577.cos.ap-guangzhou.myqcloud.com/img/landscape_nature_winter_snow_ice_frost_forest_field-2228466.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
